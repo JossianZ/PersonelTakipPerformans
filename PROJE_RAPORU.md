@@ -249,4 +249,4 @@ Sistem kurulumunda otomatik olarak eklenir:
 
 **Rapor Tarihi:** 8 Haziran 2026  
 **Versiyon:** 1.0  
-**Hazırlayan:** Proje Ekibi
+**Hazırlayan:** Serhat Yiğit
